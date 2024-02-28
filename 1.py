@@ -1,2 +1,1 @@
-o;jguoygjhbkljguhuhbknlknhhhfh
-bnvjgfjgjhkjhgkjh
+print('hello world')
